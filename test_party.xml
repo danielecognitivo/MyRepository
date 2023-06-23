@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <ID>2425</ID>
+    <Name>Tom Smith</Name>
+    <DoB>20/05/1970</DoB>
+    <Income>150,000</Income>
+    <Age>35</Age>
+  </row>
+</data>
