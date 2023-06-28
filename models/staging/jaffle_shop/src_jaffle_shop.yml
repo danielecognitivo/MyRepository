@@ -2,8 +2,8 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    database: analytics
+    database: default
     schema: jaffle_shop
     tables:
-      - name: customers
-      - name: orders
+      - name: jaffle_shop_customers
+      - name: jaffle_shop_orders
